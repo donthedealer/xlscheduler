@@ -7,7 +7,7 @@ import shutil
 import time as tm
 import configparser
 from datetime import *
-import deps # deps.py is the dependancy file for this program.
+import deps # deps.py is the dependency file for this program.
 
 ######################################################
 #### BASE VARIABLES
